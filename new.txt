@@ -1,0 +1,5 @@
+
+版本库(Repository)：工作区有一个隐藏目录.git,这个不属于工作区，这是版本库。其中版本库里面存了很多东西，
+其中最重要的就是stage(暂存区)，
+还有Git为我们自动创建了第一个分支master,以及指向master的一个指针HEAD。
+git 中的head用于指向master；
